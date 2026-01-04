@@ -1,0 +1,7 @@
+print("bonjour,")
+name=input("Enter your name for start:")
+print("hello",name)
+x=input("what's a value for x:")
+y=9
+Z=int(x)+int(y)
+print(Z)
