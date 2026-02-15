@@ -5,9 +5,9 @@ name=input('Enter your name for start:  ')
 print('Welcome', name,"nice to meet you!")
 
 print("""
-This is a rock scissor paper gamer!
-You will play against me, Cain algoritmne 
-But since now we are friend so just call me Cain 
+This is a rock, scissors, paper game !
+You will play against me, Cain algoritmn.
+But since now we are friend, just call me Cain.
 """)
 
 #ask to the user if they know the rules
@@ -77,3 +77,4 @@ while True:
     if again != "yes":
        print("Thanks for playing! Goodbye!")
        break
+
